@@ -1,0 +1,1935 @@
+[
+    {
+        "name": "El Pecado",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.10204562544961,
+                "longitude": -82.34136591354408
+            }
+        },
+        "type_of_food": "Criolla",
+        "menu_availability": true,
+        "reservation": false,
+        "delivery": true,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "11:00","end": "23:00"},
+            "tuesday": {"start": "11:00","end": "23:00"},
+            "wednesday": {"start": "11:00","end": "23:00"},
+            "thursday": {"start": "11:00","end": "23:00"},
+            "friday": {"start": "11:00","end": "23:00"},
+            "saturday": {"start": "11:00","end": "23:00"},
+            "sunday": {"start": "11:00","end": "23:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "aceitunas",
+                    "price": 350.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "entremes de jamon y queso",
+                    "price": 300.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 350.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "papitas fritas",
+                    "price": 350.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "croquetas",
+                    "price": 340.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 600.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 570.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones de jamon y queso",
+                    "price": 380.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones de atun",
+                    "price": 450.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "picadera pecado",
+                    "price": 1200.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "cerdo grille",
+                    "price": 650.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masas ritas",
+                    "price": 750.0,
+                    "type": "main"
+                },
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 720.0,
+                    "type": "main"
+                },
+                {
+                    "name": "costillas en salsa bbq",
+                    "price": 600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec uruguayo de cerdo",
+                    "price": 850.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga empanada",
+                    "price": 700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 650.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga princesa",
+                    "price": 800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga gordon blue",
+                    "price": 850.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 730.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pescado canciller",
+                    "price": 950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pescado jhonbill",
+                    "price": 1200.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pescado empanado",
+                    "price": 780.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 650.0,
+                    "type": "main"
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 720.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de res encebollado",
+                    "price": 750.0,
+                    "type": "main"
+                },
+                {
+                    "name": "uruguayo de res",
+                    "price": 730.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camarones",
+                    "price": 750.0,
+                    "type": "main"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "Buena Vibra",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.099394633172760,
+                "longitude": -82.3324060073085
+            }
+        },
+        "type_of_food": "Criolla",
+        "menu_availability": true,
+        "reservation": true,
+        "delivery": false,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "12:00","end": "22:00"},
+            "tuesday": {"start": "12:00","end": "22:00"},
+            "wednesday": {"start": "12:00","end": "22:00"},
+            "thursday": {"start": "12:00","end": "22:00"},
+            "friday": {"start": "12:00","end": "22:00"},
+            "saturday": {"start": "12:00","end": "22:00"},
+            "sunday": {"start": "12:00","end": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "croquetas",
+                    "price": 400.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 400.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 300.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones tradicionales",
+                    "price": 300.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "hamburguesa de pollo",
+                    "price": 300.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 850.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de pollo empanado",
+                    "price": 900.0,
+                    "type": "main"
+                },
+                {
+                    "name": "hígado de cerdo",
+                    "price": 800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 900.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 900.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 900.0,
+                    "type": "main"
+                },
+                {
+                    "name": "Spaghetti con queso",
+                    "price": 400.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti de jamón",
+                    "price": 550.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "tequila reposado",
+                    "price": 300.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "licor crema",
+                    "price": 200.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "piña colada",
+                    "price": 300.0,
+                    "alcohol": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cafe Toscano",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.079664361938153,
+                "longitude": -82.31965649386221
+            }
+        },
+        "type_of_food": "Cafe",
+        "menu_availability": true,
+        "reservation": false,
+        "delivery": true,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "08:00","end": "22:00"},
+            "tuesday": {"start": "08:00","end": "22:00"},
+            "wednesday": {"start": "08:00","end": "22:00"},
+            "thursday": {"start": "08:00","end": "22:00"},
+            "friday": {"start": "08:00","end": "22:00"},
+            "saturday": {"start": "08:00","end": "22:00"},
+            "sunday": {"start": "08:00","end": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "tostones rellenos",
+                    "price": 250.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones",
+                    "price": 150.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 300.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa con queso",
+                    "price": 380.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa doble con queso",
+                    "price": 550.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 400.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pollo especial",
+                    "price": 1000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 170.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza doble de queso",
+                    "price": 250.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 290.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza gouda",
+                    "price": 250.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza cubana",
+                    "price": 320.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza grande napolitana",
+                    "price": 550.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza grande doble de queso",
+                    "price": 790.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza grande gouda",
+                    "price": 940.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti",
+                    "price": 330.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti con queso gouda",
+                    "price": 400.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "Don Balbinos",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.096667207456722,
+                "longitude": -82.32652150730858
+            }
+        },
+        "type_of_food": "Criolla", 
+        "menu_availability": true,
+        "reservation": true,
+        "delivery": false,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "8:30","end": "23:00"},
+            "tuesday": {"start": "8:30","end": "23:00"},
+            "wednesday": {"start": "8:30","end": "23:00"},
+            "thursday": {"start": "8:30","end": "23:00"},
+            "friday": {"start": "8:30","end": "23:00"},
+            "saturday": {"start": "8:30","end": "23:00"},
+            "sunday": {"start": "8:30","end": "23:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "bolitas de queso",
+                    "price": 950.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "croquetas especiales de la casa",
+                    "price": 1200.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "croquetas del día",
+                    "price": 900.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1100.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 800.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "masas de cerdo",
+                    "price": 1500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 850.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tabla don balbino",
+                    "price": 3000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tabla de vegetales",
+                    "price": 1400.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 1400.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 900.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "hamburguesa full pork",
+                    "price": 800.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa original beef balbinos",
+                    "price": 900.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa pollo crispy",
+                    "price": 850.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "pan con lechón criollo",
+                    "price": 850.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "sandwich balbinos",
+                    "price": 1000.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "sandwich de atún",
+                    "price": 900.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "sandwich de pollo",
+                    "price": 850.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 750.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "sandwich qbano",
+                    "price": 950.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "fabada",
+                    "price": 2900.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 2200.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo encebollado",
+                    "price": 2300.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo asado",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 2600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "fricase de cerdo a la habanera",
+                    "price": 2650.0,
+                    "type": "main"
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 2550.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 2400.0,
+                    "type": "main"
+                },
+                {
+                    "name": "estofado de res",
+                    "price": 2700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "punta de filete",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camarón grille",
+                    "price": 2400.0,
+                    "type": "main"
+                },
+                {
+                    "name": "enchilado de camarón",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "enchilado de langosta",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 2550.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 2150.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 1200.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti napolitano",
+                    "price": 1000.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti bolognesa",
+                    "price": 1200.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti don balbino",
+                    "price": 1300.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "cerveza dispensada",
+                    "price": 400.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "cerveza heineken",
+                    "price": 500.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 350.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 350.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "chelada",
+                    "price": 250.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "michelada",
+                    "price": 300.0,
+                    "alcohol": true
+                },
+                {
+                    "name": "batido de helado",
+                    "price": 700.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 930.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "agua natural",
+                    "price": 250.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "batido de frutas",
+                    "price": 550.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "jugo natural de frutas",
+                    "price": 400.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "jugo de lata",
+                    "price": 400.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "malta importada",
+                    "price": 400.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "malta morena",
+                    "price": 250.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "malta nacional",
+                    "price": 500.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "malteada",
+                    "price": 300.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "redbull",
+                    "price": 250.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "refresco importado",
+                    "price": 450.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "refresco nacional",
+                    "price": 500.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "tigon",
+                    "price": 400.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "kermato",
+                    "price": 400.0,
+                    "alcohol": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Don Timbon",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.078091931411176,
+                "longitude": -82.31932677141849
+            }
+        },
+        "type_of_food": "Italiana",
+        "menu_availability": true,
+        "reservation": false,
+        "delivery": true,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "09:00","end": "22:00"},
+            "tuesday": {"start": "09:00","end": "22:00"},
+            "wednesday": {"start": "09:00","end": "22:00"},
+            "thursday": {"start": "09:00","end": "22:00"},
+            "friday": {"start": "09:00","end": "22:00"},
+            "saturday": {"start": "09:00","end": "22:00"},
+            "sunday": {"start": "09:00","end": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "pan con bistec",
+                    "price": 550.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 350.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "arroz salteado",
+                    "price": 500.0,
+                    "type": "garrison"
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 160.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "lasaña",
+                    "price": 550.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti",
+                    "price": 300.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "GaraG",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.0994249,
+                "longitude": -82.3334469
+            }
+        },
+        "type_of_food": "Criolla",
+        "menu_availability": true,
+        "reservation": false,
+        "delivery": false,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "12:00","end": "00:00"},
+            "tuesday": {"start": "12:00","end": "00:00"},
+            "wednesday": {"start": "12:00","end": "00:00"},
+            "thursday": {"start": "12:00","end": "00:00"},
+            "friday": {"start": "12:00","end": "00:00"},
+            "saturday": {"start": "12:00","end": "00:00"},
+            "sunday": {"start": "12:00","end": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "picadera garag",
+                    "price": 3500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "toston alfredo",
+                    "price": 750.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "eperlan",
+                    "price": 1650.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1225.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 1550.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "croquetas de mima",
+                    "price": 750.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "ceviche",
+                    "price": 900.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tacos de carnita",
+                    "price": 1205.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tacos marinesos",
+                    "price": 1295.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 750.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 1250.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 1920.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado empanado",
+                    "price": 1980.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado garag",
+                    "price": 2225.0,
+                    "type": "main"
+                },
+                {
+                    "name": "canciller",
+                    "price": 2150.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete alfredo",
+                    "price": 2150.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masas de pescado al ajito",
+                    "price": 1920.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pargo frito",
+                    "price": 2150.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1350.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de pollo grille",
+                    "price": 1350.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pollo empanado",
+                    "price": 1450.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cordon blue",
+                    "price": 1925.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo encebollado",
+                    "price": 1950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo grille",
+                    "price": 1700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo empanado",
+                    "price": 1750.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo uruguayo",
+                    "price": 1955.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 2200.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo asado",
+                    "price": 2150.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron al ajillo",
+                    "price": 2300.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron grille",
+                    "price": 2105.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 2230.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron empanado",
+                    "price": 2290.0,
+                    "type": "main"
+                },
+                {
+                    "name": "aporreado de res",
+                    "price": 1950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1930.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz frito especial",
+                    "price": 1350.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1200.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ensalada estacion",
+                    "price": 350.0,
+                    "type": "garrison"
+                },
+                {
+                    "name": "vegetal salteado",
+                    "price": 350.0,
+                    "type": "garrison"
+                },
+                {
+                    "name": "napoles (pizza)",
+                    "price": 930.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "anti hawaiana",
+                    "price": 1555.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "lechocita",
+                    "price": 1595.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "5 quesos",
+                    "price": 1650.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "napoles (pasta)",
+                    "price": 930.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "El Trafico",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.08023772075543,
+                "longitude": -82.32083560917445
+            }
+        },
+        "type_of_food": "Criolla",
+        "menu_availability": true,
+        "reservation": true,
+        "delivery": false,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "10:00","end": "22:00"},
+            "tuesday": {"start": "10:00","end": "22:00"},
+            "wednesday": {"start": "10:00","end": "22:00"},
+            "thursday": {"start": "10:00","end": "22:00"},
+            "friday": {"start": "10:00","end": "22:00"},
+            "saturday": {"start": "10:00","end": "22:00"},
+            "sunday": {"start": "10:00","end": "22:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "tamal",
+                    "price": 200.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 600.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 1500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 1950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 1950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1950.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo guisado",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "costilla de cerdo",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de merluza",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pizza de queso blanco",
+                    "price": 280.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso blanco xl",
+                    "price": 770.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 320.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso gouda xl",
+                    "price": 830.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso parmesano",
+                    "price": 350.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza de queso parmesano xl",
+                    "price": 850.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti con queso blanco",
+                    "price": 400.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti con queso gouda",
+                    "price": 420.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "Spaghetti con queso parmesano",
+                    "price": 450.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "KY-13",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.07978553070381,
+                "longitude": -82.3203789919885
+            }
+        },
+        "type_of_food": "Criolla",
+        "menu_availability": true,
+        "reservation": false,
+        "delivery": true,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "10:00","end": "23:00"},
+            "tuesday": {"start": "10:00","end": "23:00"},
+            "wednesday": {"start": "10:00","end": "23:00"},
+            "thursday": {"start": "10:00","end": "23:00"},
+            "friday": {"start": "10:00","end": "23:00"},
+            "saturday": {"start": "10:00","end": "23:00"},
+            "sunday": {"start": "10:00","end": "23:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "croquetas de queso",
+                    "price": 600.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 600.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 700.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "eperlan",
+                    "price": 1300.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "dedos de pollo",
+                    "price": 1000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 1300.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "camaron rebozado",
+                    "price": 1200.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 850.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 550.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 800.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "crema de camaron",
+                    "price": 900.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "surtido ky13",
+                    "price": 4000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 2350.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo empanado",
+                    "price": 2700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "uruguayo de cerdo",
+                    "price": 3500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 2400.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga de pollo gratinada",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pollo gordon blue",
+                    "price": 3650.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pollo frito o asado",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja de res",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "picadillo a la habanera",
+                    "price": 2700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 2600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "costilla de cerdo frita",
+                    "price": 2300.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 3800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 2200.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado empanado",
+                    "price": 3300.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado gratinado",
+                    "price": 3500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pescado montetoro",
+                    "price": 3800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pescado canciller",
+                    "price": 4250.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron grille",
+                    "price": 2600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "enchilado de camaron",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron al ajillo",
+                    "price": 2700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 2700.0,
+                    "type": "main"
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 2800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 1200.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "pizza familiar de queso",
+                    "price": 3350.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetti de queso",
+                    "price": 1300.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "lasaña de jamón",
+                    "price": 1800.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetti a la carbonara",
+                    "price": 2000.0,
+                    "type": "pasta/pizza"
+                }
+            ],
+            "drinks": null
+        }
+    },
+    {
+        "name": "La Patrona",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.1030219,
+                "longitude": -82.3322989
+            }
+        },
+        "type_of_food": "Italiana",
+        "menu_availability": true,
+        "reservation": true,
+        "delivery": true,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": "08:00","end": "00:00"},
+            "tuesday": {"start": "08:00","end": "00:00"},
+            "wednesday": {"start": "08:00","end": "00:00"},
+            "thursday": {"start": "08:00","end": "00:00"},
+            "friday": {"start": "08:00","end": "00:00"},
+            "saturday": {"start": "08:00","end": "00:00"},
+            "sunday": {"start": "08:00","end": "00:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "hamburguesa clasica",
+                    "price": 500.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 700.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa grosera",
+                    "price": 1200.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "hamburguesa patrona",
+                    "price": 1000.0,
+                    "type": "with_bread"
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 2600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1400.0,
+                    "type": "main"
+                },
+                {
+                    "name": "escalope de cerdo",
+                    "price": 1800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1600.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pizza la patrona",
+                    "price": 1800.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "lasaña",
+                    "price": 1250.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "canelones",
+                    "price": 1100.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "espaguetti carbonara",
+                    "price": 1500.0,
+                    "type": "pasta/pizza"
+                },
+                {
+                    "name": "flan",
+                    "price": 200.0,
+                    "type": "dessert"
+                },
+                {
+                    "name": "copa lolita",
+                    "price": 400.0,
+                    "type": "dessert"
+                },
+                {
+                    "name": "cesta helado",
+                    "price": 500.0,
+                    "type": "dessert"
+                },
+                {
+                    "name": "tres gracias",
+                    "price": 300.0,
+                    "type": "dessert"
+                }
+            ],
+            "drinks": [
+                {
+                    "name": "cafe express",
+                    "price": 150.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "cafe con crema",
+                    "price": 180.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "cafe la patrona",
+                    "price": 250.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 250.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "jugos",
+                    "price": 100.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "suero helado",
+                    "price": 350.0,
+                    "alcohol": false
+                },
+                {
+                    "name": "batidos",
+                    "price": 300.0,
+                    "alcohol": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Yesterday Havana",
+        "municipe": "San Miguel del Padron",
+        "direction": {
+            "coordinates": {
+                "latitude": 23.099170645364698,
+                "longitude": -82.33964892703689
+            }
+        },
+        "type_of_food": "Criolla",
+        "menu_availability": true,
+        "reservation": false,
+        "delivery": true,
+        "physical_money": true,
+        "transfer": true,
+        "money": {
+            "cup": true,
+            "usd": false,
+            "euro": false
+        },
+        "percentage": 0,
+        "timetable": {
+            "monday": {"start": null,"end": null},
+            "tuesday": {"start": null,"end": null},
+            "wednesday": {"start": "12:00","end": "02:00"},
+            "thursday": {"start": "12:00","end": "02:00"},
+            "friday": {"start": "12:00","end": "02:00"},
+            "saturday": {"start": "12:00","end": "02:00"},
+            "sunday": {"start": "12:00","end": "02:00"}
+        },
+        "menu": {
+            "food":[
+                {
+                    "name": "picadera yesterday",
+                    "price": 3000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 600.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 800.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 800.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "ceviche",
+                    "price": 800.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "eperlan",
+                    "price": 900.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 1000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "entremes de jamon, queso y chorizo",
+                    "price": 800.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 650.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "toston al ajo",
+                    "price": 600.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 950.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 950.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "brochetas mixtas",
+                    "price": 2500.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 2000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "fabada",
+                    "price": 2000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "crema del dia",
+                    "price": 1000.0,
+                    "type": "appetizer"
+                },
+                {
+                    "name": "mariscada yesterday",
+                    "price": 7000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "calamar al gusto",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "langosta al gusto",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "3 delicias",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camarones al ajo",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camarones grille",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "enchilado de camarones",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "camaron empanado",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 1800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "filete de pescado jhombill",
+                    "price": 2200.0,
+                    "type": "main"
+                },
+                {
+                    "name": "rueda de pescado frito",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo encebollado",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 1800.0,
+                    "type": "main"
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 5500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "mar y tierra res",
+                    "price": 5500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cordero al vino",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "cerdo desmechado",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "masas fritas",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "lonjas de cerdo",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "lonjas ahumadas",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "uruguayo",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "canciller",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "corden bleu",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 4000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz a la marinera",
+                    "price": 3500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz campesino",
+                    "price": 3000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz frito (camaron)",
+                    "price": 2000.0,
+                    "type": "main"
+                },
+                {
+                    "name": "arroz frito (langosta)",
+                    "price": 2500.0,
+                    "type": "main"
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2500.0,
+                    "type": "main"
+                }
+            ],
+            "drinks": null
+        }
+    }
+]
